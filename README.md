@@ -10,5 +10,5 @@ npm install && npm start
 REST endpoints are documented in server.js and /routes of the root directory.
 The server is currently configured to run in a development environment at http://localhost:5000 and accepts CORS origins from my website, https://www.seanburman.ca and http://localhost:3000.
 
-#MongoDB / Mongoose environmental configuration
+##MongoDB / Mongoose environmental configuration
 To connect to MongoDB, add an srv URI in your .env file using the 'URI' variable.
