@@ -2,7 +2,7 @@
 
 This repository contains a RESTful API written with Node, Express, and Mongoose. It is in the process of development for integration with a proof-of-concept ecommerce and content-creation platform, part of my latest project.
 
-To install and run the server from the root director:
+To install and run the server from the root directory:
 ```
 npm install && npm start
 ```
